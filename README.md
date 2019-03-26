@@ -6,4 +6,7 @@
 
 # 作品
 - GameBase
-  - fdsfsfsfsdfdsf
+  - 使用技術 : Vue.js / Vuex / Vue-router / Bootstrap 4.0
+  
+- 60 秒對戰遊戲
+  - 使用技術 Express / Socket.io / MongoDB / Vue.js / Vuex / Vue-router

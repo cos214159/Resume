@@ -20,6 +20,7 @@
   - [網站 Demo](https://cos214159.github.io/JS-Level5/)
   - [GitHub連結](https://github.com/cos214159/JS-Level5)
   - 使用技術 : React / Redux / Flex
+  - [部落格紀錄](https://medium.com/@cos214159/js-%E5%9C%B0%E4%B8%8B%E5%9F%8E-level5-aqi-%E7%A9%BA%E6%B0%A3%E5%93%81%E8%B3%AA-8077e8f26f90)
   
 - 甜點電商
   - [網站 Demo](https://cos214159.github.io/demo-sweet-taste/)

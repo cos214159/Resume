@@ -16,8 +16,14 @@
   - 使用技術 : Express / Socket.io / MongoDB / Vue.js / Vuex / Vue-router
   
 - AQI 空氣品質指數查詢
-  - 使用技術 : React / Redux
-  
+  - [網站 Demo](https://cos214159.github.io/JS-Level5/)
+  - [GitHub連結](https://github.com/cos214159/JS-Level5)
+  - 使用技術 : React / Redux / Flex
+- 甜點電商
+  - [網站 Demo](https://cos214159.github.io/demo-sweet-taste/)
+  - [GitHub連結](https://github.com/cos214159/demo-sweet-taste)
+  - 使用技術 : Theming Bootstrap / Bootstrap 4.0 / Flex / gulp
+
 - 電商網站
   - 使用技術 : Bootstrap / Flex / Gulp
   

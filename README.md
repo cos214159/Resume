@@ -11,6 +11,8 @@
   - 使用技術 : Vue.js / Vuex / Vue-router / Bootstrap 4.0
   
 - 60 秒對戰遊戲
+  - [網站 Demo](https://cos214159.github.io/JS-Level6/#/)
+  - [GitHub 連結](https://github.com/cos214159/JS-Level6)
   - 使用技術 : Express / Socket.io / MongoDB / Vue.js / Vuex / Vue-router
   
 - AQI 空氣品質指數查詢

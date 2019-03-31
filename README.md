@@ -6,7 +6,7 @@
 
 # 個人作品
 - GameBase (遊戲電商)
-  - 網站 DEMO(https://boiling-wave-43766.herokuapp.com/)
+  - [網站 DEMO](https://boiling-wave-43766.herokuapp.com/)
   - GitHub 連結
   - 使用技術 : Vue.js / Vuex / Vue-router / Bootstrap 4.0
   

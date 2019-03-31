@@ -29,8 +29,17 @@
   - [網站 Demo](https://codepen.io/cos214159/pen/vPBOdB)
   - 使用技術 : Vue.js / CSS Grid
   
-  
 - 時鐘
   - [網站 Demo](https://cos214159.github.io/JS-Level2/)
   - [GitHub連結](https://github.com/cos214159/JS-Level2)
   - 使用技術 : 原生 JavaScript
+  
+- 時區顯示
+  - [網站 Demo](https://cos214159.github.io/JS-Level4/)
+  - [GitHub連結](https://github.com/cos214159/JS-Level4)
+  - 使用技術 : [原生 JavaScript 日期](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Date)
+
+- 九九乘法表
+  - [網站 Demo](https://cos214159.github.io/JS-Level1/)
+  - [GitHub連結](https://github.com/cos214159/JS-Level1)
+  - 使用技術 : 原生 JavsScript

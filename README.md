@@ -19,16 +19,18 @@
   - [網站 Demo](https://cos214159.github.io/JS-Level5/)
   - [GitHub連結](https://github.com/cos214159/JS-Level5)
   - 使用技術 : React / Redux / Flex
+  
 - 甜點電商
   - [網站 Demo](https://cos214159.github.io/demo-sweet-taste/)
   - [GitHub連結](https://github.com/cos214159/demo-sweet-taste)
   - 使用技術 : Theming Bootstrap / Bootstrap 4.0 / Flex / gulp
 
-- 電商網站
-  - 使用技術 : Bootstrap / Flex / Gulp
+- 計算機
+  - [網站 Demo](https://codepen.io/cos214159/pen/vPBOdB)
+  - 使用技術 : Vue.js / CSS Grid
   
-- 計算機 
-  - 使用技術 : Vue.js
   
 - 時鐘
+  - [網站 Demo](https://cos214159.github.io/JS-Level2/)
+  - [GitHub連結](https://github.com/cos214159/JS-Level2)
   - 使用技術 : 原生 JavaScript

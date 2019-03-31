@@ -4,8 +4,10 @@
 - E-Mail : cos214159@gmail.com
 - 手機 : 0932793922
 
-# 作品
-- GameBase
+# 個人作品
+- GameBase (遊戲電商)
+  - 網站 DEMO(https://boiling-wave-43766.herokuapp.com/)
+  - GitHub 連結
   - 使用技術 : Vue.js / Vuex / Vue-router / Bootstrap 4.0
   
 - 60 秒對戰遊戲

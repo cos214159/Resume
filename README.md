@@ -5,9 +5,13 @@
 
 # 個人作品
 - FUN GAME (遊戲電商)
-  - [網站 DEMO](https://boiling-wave-43766.herokuapp.com/)
+  - [網站 DEMO](https://cos214159.github.io/game-shopify/#/)
   - [GitHub 連結](https://github.com/cos214159/game-shopify)
   - 使用技術 : Vue.js / Vuex / Vue-router / Bootstrap 4.0
+  
+- FUN GAME 後台 (遊戲電商後台)
+  - [網站 DEMO](https://cos214159.github.io/game-shopify-backend/#/)
+  - [GitHub 連結](https://github.com/cos214159/game-shopify-backend)
   
 - 60 秒對戰遊戲
   - [網站 Demo](https://cos214159.github.io/JS-Level6/#/)

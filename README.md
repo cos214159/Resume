@@ -1,6 +1,10 @@
 
+# 鍾佳峻
+- email : cos214159
+- 電話 : 0932793922
+
 # 個人作品
-- GameBase (遊戲電商)
+- FUN GAME (遊戲電商)
   - [網站 DEMO](https://boiling-wave-43766.herokuapp.com/)
   - [GitHub 連結](https://github.com/cos214159/game-shopify)
   - 使用技術 : Vue.js / Vuex / Vue-router / Bootstrap 4.0

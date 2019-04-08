@@ -13,10 +13,15 @@
   - [網站 DEMO](https://cos214159.github.io/game-shopify-backend/#/)
   - [GitHub 連結](https://github.com/cos214159/game-shopify-backend)
   
-- 60 秒對戰遊戲
+- 60 秒對戰遊戲(前台)
   - [網站 Demo](https://cos214159.github.io/JS-Level6/#/)
   - [GitHub 連結](https://github.com/cos214159/JS-Level6)
-  - 使用技術 : Express / Socket.io / MongoDB / Vue.js / Vuex / Vue-router
+  - 使用技術 : Express / Socket.io.client / Vue.js / Vuex / Vue-router
+  - [部落格紀錄](https://medium.com/@cos214159/js-%E5%9C%B0%E4%B8%8B%E5%9F%8E-level-6-60%E7%A7%92%E7%AE%97%E6%95%B8%E9%81%8A%E6%88%B2-81f4a57a4c79)
+  
+- 60 秒對戰遊戲(後台)
+  - [GitHub 連結](https://github.com/cos214159/JS-Level6-backend)
+  - 使用技術 : Express / Socket.io / MongoDB
   - [部落格紀錄](https://medium.com/@cos214159/js-%E5%9C%B0%E4%B8%8B%E5%9F%8E-level-6-60%E7%A7%92%E7%AE%97%E6%95%B8%E9%81%8A%E6%88%B2-81f4a57a4c79)
   
 - AQI 空氣品質指數查詢
